@@ -1,0 +1,97 @@
+{
+ "itemsAsignacion": [
+    {
+      "id": 212121,
+      "nombres": "monica dueñes",
+      "cedula": "1073680979",
+      "token": "Fisico",
+      "fechai": "12/04/1989",
+      "radicado": 11555555,
+      "status": "pendiente"
+    },
+    {
+      "id": 212126,
+      "nombres": "monica dueñes",
+      "cedula": "1073680979",
+      "token": "Fisico",
+      "fechai": "12-04-1989",
+      "radicado": 11555555,
+      "status": "pendiente"
+    },
+    {
+      "id": 212126,
+      "nombres": "monica dueñes",
+      "cedula": "1073680979",
+      "fechai": "12-04-2005",
+      "token": "Fisico",
+      "radicado": 11555555,
+      "status": "pendiente"
+    },
+    {
+      "id": 212126,
+      "nombres": "monica dueñes",
+      "cedula": "1073680979",
+      "token": "Fisico",
+      "radicado": 11555555,
+      "status": "pendiente"
+    }
+  ],
+  "filtros": [
+
+    {
+      "certificado": "virtual",
+      "documento": "123456789",
+      "empresa": "Certicámara",
+      "estado": "rechazado",
+      "fechai": "12/04/1989",
+      "solicitud": "123456",
+      "usuario": "shelvin bautitita",
+      "id": 123456
+    },
+    {
+      "id": 123457,
+      "solicitud": "123457",
+      "empresa": "Certicámara",
+      "documento": "123456789",
+      "certificado": "virtual",
+      "fechai": "12/04/1989",
+      "estado": "rechazado",
+      "usuario": "shelvin.batista"
+    },
+    {
+      "id": 123458,
+      "solicitud": "123458",
+      "empresa": "Certicámara",
+      "documento": "123456789",
+      "certificado": "virtual",
+      "fechai": "12/04/1989",
+      "estado": "rechazado",
+      "usuario": "shelvin.batista"
+    },
+    {
+      "id": 123459,
+      "solicitud": "123459",
+      "empresa": "Certicámara",
+      "documento": "123456789",
+      "certificado": "virtual",
+      "fechai": "12/04/1989",
+      "estado": "rechazado",
+      "usuario": "shelvin.batista"
+    }
+  ],
+  "auditoria": [
+    {
+      "certificado": "virtual",
+      "documento": "123456789",
+      "empresa": "Certicámara",
+      "estado": "rechazado",
+      "fechai": "12/04/1989",
+      "solicitud": "123456",
+      "usuario": "monica.duenes",
+      "olduser": "shelvin bautitita",
+      "fechaMo": "2023-04-24T14:06:02.673Z",
+      "id": 1
+    }
+  ]
+
+}
